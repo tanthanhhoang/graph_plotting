@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/48x48/Battery.png</file>
+        <file>img/48x48/Block.png</file>
+        <file>img/48x48/Brightness.png</file>
+        <file>img/48x48/Calendar.png</file>
+        <file>img/48x48/Camera.png</file>
+        <file>img/48x48/Clean.png</file>
+        <file>img/48x48/Clock.png</file>
+        <file>img/48x48/Cloud.png</file>
+        <file>img/48x48/CMD.png</file>
+        <file>img/48x48/Computer.png</file>
+        <file>img/48x48/Display.png</file>
+        <file>img/48x48/Downs.png</file>
+        <file>img/48x48/DVD Drive.png</file>
+        <file>img/48x48/Favorites.png</file>
+        <file>img/48x48/Firewall.png</file>
+        <file>img/48x48/Fonts.png</file>
+        <file>img/48x48/Games.png</file>
+        <file>img/48x48/HDD.png</file>
+        <file>img/48x48/HDD2.png</file>
+        <file>img/48x48/Help.png</file>
+        <file>img/48x48/Home.png</file>
+        <file>img/48x48/Homegroup.png</file>
+        <file>img/48x48/Ipod.png</file>
+        <file>img/48x48/Library.png</file>
+        <file>img/48x48/Lock.png</file>
+        <file>img/48x48/Log Off.png</file>
+        <file>img/48x48/Mail.png</file>
+        <file>img/48x48/Mic.png</file>
+        <file>img/48x48/MP3.png</file>
+        <file>img/48x48/Network.png</file>
+        <file>img/48x48/Phone.png</file>
+        <file>img/48x48/Print.png</file>
+        <file>img/48x48/Save.png</file>
+        <file>img/48x48/Schedule.png</file>
+        <file>img/48x48/Search.png</file>
+        <file>img/48x48/Settings.png</file>
+        <file>img/48x48/Settings2.png</file>
+        <file>img/48x48/Sounds.png</file>
+        <file>img/48x48/Trash.png</file>
+        <file>img/48x48/Update.png</file>
+        <file>img/48x48/Wifi.png</file>
+        <file>img/48x48/Windows.png</file>
+        <file>img/48x48/Connect.png</file>
+    </qresource>
+</RCC>
